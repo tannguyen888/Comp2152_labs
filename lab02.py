@@ -1,4 +1,5 @@
 #rock, paper, scissors game
+#logic 
 import random
 
 choices = ["rock", "paper", "scissors"]
